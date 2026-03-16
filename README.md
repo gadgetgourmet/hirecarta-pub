@@ -1,4 +1,4 @@
-# Project Brief: Hirecarta Career Assistant
+# Project Brief: Hirecarta Job Search and Career Management Platform
 
 ## Project Overview
 
